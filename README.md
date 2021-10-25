@@ -1,2 +1,2 @@
-# laboratorio.redes2
-Para la compartir el desarrollo del Laboratorio 2
+# laboratorio.redes3
+Para la compartir el desarrollo del Laboratorio 3
